@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <Platforms>AnyCPU;x64</Platforms>
+    <Authors>$(AssemblyName), xlxk</Authors>
+    <PackageIcon>RivalsManager.png</PackageIcon>
+    <ApplicationIcon>RivalsManager.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Rivals Loop.mp4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Rivals Loop.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="RivalsManager.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\Documents\RivalsManager.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
