@@ -1,4 +1,4 @@
-# Rivals-Account-Manager
+# Rivals-Account-Manager (R.A.M.)
 Marvel Rivals Account Manager for Steam, using WPF in C#
 ![image](https://github.com/user-attachments/assets/5aa2abe1-8893-48ff-a543-5ba630d92d49)
 ![image](https://github.com/user-attachments/assets/df49571a-6301-4576-83fc-99105e02b25b)
