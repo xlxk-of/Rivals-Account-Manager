@@ -1,3 +1,6 @@
+Download Link for the "Rivals Loop.mp4" background file
+https://cdn.discordapp.com/attachments/1026259791913422859/1347456503044378705/Rivals_Loop.mp4?ex=67cbe428&is=67ca92a8&hm=1cf14a82e386091986178cc3b5dbb67a008841dedd6cde884d0e1832249de29c&
+
 # Rivals-Account-Manager (R.A.M.)
 Marvel Rivals Account Manager for Steam, using WPF in C#, useful for keeping track and managing over 5 accounts. This can be changed to work for any game on steam like rainbow six, csgo, apex legends, and so on.
 ![image](https://github.com/user-attachments/assets/5aa2abe1-8893-48ff-a543-5ba630d92d49)
