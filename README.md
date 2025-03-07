@@ -18,7 +18,7 @@ Marvel Rivals Account Manager for Steam, using WPF in C#
 - Background video playing (easily interchangable)
 - Accounts saved in a .ini file (Non viewable)
 
-#Instructions
+# Instructions
 Go to the top right gear icon and set the steam.exe path
 
 ![image](https://github.com/user-attachments/assets/58b91505-8e4e-465b-8d5e-4245b870871c)
